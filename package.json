@@ -24,22 +24,20 @@
     "email": "jacobo@squareet.com.com",
     "url": "https://squareet.com"
   },
-  "contributors": [
-    {
-      "name": "Alberto Rial Barreiro",
-      "email": "alberto@squareet.com",
-      "url": "https://squareet.com"
-    }
-  ],
+  "contributors": [{
+    "name": "Alberto Rial Barreiro",
+    "email": "alberto@squareet.com",
+    "url": "https://squareet.com"
+  }],
   "license": "MIT",
   "homepage": "https://github.com/squareetlabs/ionic-rating-component",
   "peerDependencies": {
-    "@angular/common": "^10.0.0",
-    "@angular/core": "^10.0.0",
-    "@angular/forms": "^10.0.0",
-    "@ionic/angular": "^5.0.0"
+    "@angular/common": "~12.2.16",
+    "@angular/core": "~12.2.16",
+    "@angular/forms": "~12.2.16",
+    "@ionic/angular": "^5.9.4"
   },
   "dependencies": {
-    "tslib": "^1.10.0"
+    "tslib": "^2.0.0"
   }
 }
